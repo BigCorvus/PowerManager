@@ -1,2 +1,3 @@
 # PowerManager
+![PowerManagerV2](https://github.com/BigCorvus/PowerManager/blob/master/BatteryManagerV2brd.png)
 Small battery and power manager PCB based on a previously designed charger+LDO board. Besides the ever-useful sot-23 Lithium charger (MCP73831) and 3,3V LDO this new version has additional features: MCU-controlled power latching using a pushbutton and a BQ27441-G1A fuel gauge with current sensing capability. Yarious LDO models can be used depending on current requirements and quiescent current. They should match the footprint and have an active high enable pin. Examples are AP2112 or XC6215...
